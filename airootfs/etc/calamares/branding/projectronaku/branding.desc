@@ -33,7 +33,7 @@ style:
    sidebarBackground:       "#FFFFFF"
    sidebarText:             "#292F34"
    sidebarTextSelect:       "#ffffff"
-   sidebarTextHighlight:    "#2093d1"
+   sidebarTextHighlight:    "#ffcffa"
 
 slideshow:               "show.qml"
 
