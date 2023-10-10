@@ -22,7 +22,7 @@ strings:
     shortVersion:        2023.10.01
     versionedName:       project ronaku
     shortVersionedName:  project ronaku
-    bootloaderEntryName: Generic
+    bootloaderEntryName: projectronaku
 
 images:
     productIcon:            "logo.png"
